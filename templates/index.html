@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    	 <meta charset="UTF-8 ">
+         <title>Say Hello</title>
+         <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css')}}">
+    </head>
+    <body>
+    	<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.51yuansu.com%2Fpic3%2Fcover%2F01%2F67%2F58%2F595829fc01029_610.jpg&refer=http%3A%2F%2Fpic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662779803&t=03e1c9fb5e1891c387a167dc4d952da1">
+    	<br>
+    	<form action="greet" method="post">
+    		{% for message in get_flashed_messages()%}
+    		      <p>{{message}}</p>
+    		{% endfor %}
+    		<br>
+    		<input type="text" name="name_input">
+    		<br>
+    		<input type="submit" value="GREET" id="greet">
+    	</form>
+    </body>
+</html>
