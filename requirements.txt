@@ -4,7 +4,7 @@ click==8.0.3
 Flask==1.1.2
 gunicorn==20.1.0
 itsdangerous==2.0.1
-Jinja2==1.1.1
+Jinja2==2.11.3
 kaleido==0.2.1
 llvmlite==0.37.0
 locket==0.2.1
