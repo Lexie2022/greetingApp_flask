@@ -66,7 +66,6 @@ ruamel.yaml.clib==0.2.6
 scikit-image==0.18.3
 simplegeneric==0.8.1
 simplejson==3.17.6
-sip==4.19.13
 smmap==5.0.0
 Sphinx==4.2.0
 TBB==0.2
