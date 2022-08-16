@@ -68,7 +68,6 @@ simplegeneric==0.8.1
 simplejson==3.17.6
 smmap==5.0.0
 Sphinx==4.2.0
-TBB==0.2
 tenacity==8.0.1
 terminado==0.9.4
 unicodecsv==0.14.1
