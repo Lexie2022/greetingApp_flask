@@ -47,7 +47,6 @@ Pillow==8.4.0
 pkginfo==1.7.1
 platformdirs==2.4.1
 plotly==5.5.0
-ply==3.11
 prettytable==3.1.1
 pycosat==0.6.3
 pycountry==22.1.10
@@ -57,7 +56,6 @@ pyinstaller==5.3
 pyinstaller-hooks-contrib==2022.8
 pyls-spyder==0.4.0
 pyobjc==8.5
-pyodbc===4.0.0-unsupported
 pytest==6.2.5
 python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.2.4
