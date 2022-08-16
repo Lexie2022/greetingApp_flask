@@ -1,16 +1,4 @@
-altgraph==0.17.2
-appdirs==1.4.4
-argh==0.26.2
-atomicwrites==1.4.0
-auto-py-to-exe==2.22.0
-backports.weakref==1.0.post1
-BaiduMapAPI==0.1.2
-bkcharts==0.2
-black==19.10b0
-boto==2.49.0
-bottle-websocket==0.2.9
-branca==0.4.2
-brotlipy==0.7.0
+
 certifi==2021.10.8
 click==7.1.2
 cycler==0.10.0
@@ -37,7 +25,6 @@ mccabe==0.6.1
 mpmath==1.2.1
 munkres==1.1.4
 mypy-extensions==0.4.3
-nltk==3.6.5
 pandas==1.3.4
 pathspec==0.7.0
 patsy==0.5.2
