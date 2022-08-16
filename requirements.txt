@@ -58,7 +58,6 @@ pyinstaller-hooks-contrib==2022.8
 pyls-spyder==0.4.0
 pyobjc==8.5
 pyobjc-framework-Accounts==8.5
-pyobjc-framework-AddressBook==8.5
 pyobjc-framework-AdServices==8.5
 pyobjc-framework-AdSupport==8.5
 pyobjc-framework-AppleScriptKit==8.5
